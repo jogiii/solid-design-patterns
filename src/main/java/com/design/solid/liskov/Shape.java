@@ -1,0 +1,7 @@
+package com.design.solid.liskov;
+
+public interface Shape {
+
+    public int computeArea();
+
+}
